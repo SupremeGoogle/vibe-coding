@@ -34,14 +34,6 @@ const lessons = [
     color: 'bg-lesson-4',
     sectionId: 'lesson4',
   },
-  {
-    number: 5,
-    title: 'Лабиринт',
-    description: 'Построй игру-лабиринт с монетками, ключами и таблицей рекордов!',
-    icon: '/lesson5-icon.png',
-    color: 'bg-lesson-5',
-    sectionId: 'lesson5',
-  },
 ];
 
 export function LessonsNav() {

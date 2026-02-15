@@ -6,7 +6,6 @@ import { Lesson1 } from '@/sections/Lesson1';
 import { Lesson2 } from '@/sections/Lesson2';
 import { Lesson3 } from '@/sections/Lesson3';
 import { Lesson4 } from '@/sections/Lesson4';
-import { Lesson5 } from '@/sections/Lesson5';
 import { Footer } from '@/sections/Footer';
 import { ArrowUp, BookOpen } from 'lucide-react';
 import { useState, useEffect } from 'react';
@@ -62,7 +61,6 @@ function App() {
         <Lesson2 />
         <Lesson3 />
         <Lesson4 />
-        <Lesson5 />
       </main>
 
       <Footer />
